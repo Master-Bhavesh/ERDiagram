@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-24T05:38:52.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="g8oJqRWGEgeqtHUoxmpW" version="13.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-24T05:49:13.311Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="x5_POsa6fgZRGSfmCxQk" version="13.5.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1796" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1796" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,7 +174,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="deaUnhrbm18fLQYKPsMd-45" value="Manages Supplies" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="180" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="deaUnhrbm18fLQYKPsMd-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="deaUnhrbm18fLQYKPsMd-48" target="deaUnhrbm18fLQYKPsMd-43">
           <mxGeometry relative="1" as="geometry">
@@ -297,6 +297,32 @@
         </mxCell>
         <mxCell id="deaUnhrbm18fLQYKPsMd-85" value="Publisher &amp;nbsp;Number" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-80" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="deaUnhrbm18fLQYKPsMd-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="deaUnhrbm18fLQYKPsMd-88" target="deaUnhrbm18fLQYKPsMd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deaUnhrbm18fLQYKPsMd-88" value="Author Name" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="540" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="deaUnhrbm18fLQYKPsMd-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="deaUnhrbm18fLQYKPsMd-89" target="deaUnhrbm18fLQYKPsMd-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="deaUnhrbm18fLQYKPsMd-89" value="Author ID" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="540" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="deaUnhrbm18fLQYKPsMd-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="deaUnhrbm18fLQYKPsMd-90" target="deaUnhrbm18fLQYKPsMd-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="deaUnhrbm18fLQYKPsMd-90" value="Author Birth Date" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="600" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
